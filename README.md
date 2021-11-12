@@ -1,4 +1,7 @@
-<div align="center" > <h1> <font color="purple">  Hi there, It's Amanda here 🦸‍♀️ </font>  </h1></div>
+<div align="center" ><img align="center" alt="AMD-Csharp" height="200" width="600" src="https://i0.wp.com/static.tumblr.com/ec87913ea33f3cdce9de55e78db35a52/1qza08l/5hRohb0up/tumblr_static_filename_640_v2.gif?resize=500%2C200&ssl=1"
+   </div>
+
+<div align="center" > <h1> <font color="purple">  Hi there, It's Amanda here 👩🏻‍💻 </font>  </h1></div> 
 
 
 - 🔭 I’m currently working on _mainframe with Natural Language_
@@ -37,6 +40,8 @@
   <a href="https://www.linkedin.com/in/amanda-luiz-968a61157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-   ![Snake animation](https://pa1.narvii.com/6390/3242985ded33513246020fff076ce0ae0a63627c_hq.gif)
-
+   
 </div>
+  
+
+  
