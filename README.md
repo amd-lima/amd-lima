@@ -1,11 +1,16 @@
-<div align="center" ><img align="center" alt="AMD-Csharp" height="200" width="600" src="https://i0.wp.com/static.tumblr.com/ec87913ea33f3cdce9de55e78db35a52/1qza08l/5hRohb0up/tumblr_static_filename_640_v2.gif?resize=500%2C200&ssl=1"
-   </div>
 
-<div align="center" > <h1> <font color="purple">  Hi there, It's Amanda here 👩🏻‍💻 </font>  </h1></div> 
+<div align="center" ><img align="center" alt="AMD-Csharp" height="200" width="500" 
+    src="https://www.peta2.com/wp-content/uploads/2015/03/Dumbledore.gif"                   
+ <-- src="https://i0.wp.com/static.tumblr.com/ec87913ea33f3cdce9de55e78db35a52/1qza08l/5hRohb0up/tumblr_static_filename_640_v2.gif?resize=500%2C200&ssl=1" >
+   </div>
+   <h4 align="center">"Happiness can be found even in the darkest of time when one only remembers to turn on the light."</h4>
+    
+
+<div align="center" > <h1> <font color="purple">  Hi there, It's Amanda here!!! </font>  </h1></div> 
 
 
 - 🔭 I’m currently working on _mainframe with Natural Language_
-- 🌱 I’m currently learning _Java_
+- 🌱 I’m currently learning _Java_  
 - ⚡ Fun fact: I love Harry Potter 🧙‍♂️
 <br><br><br>
 
