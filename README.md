@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on _mainframe with Natural Language_
-- 🌱 I’m currently learning _Java_  
+- 🌱 I’m currently learning _Java and JavaScript with NodeJs_  
 - ⚡ Fun fact: I love Harry Potter 🧙‍♂️
 <br><br><br>
 
