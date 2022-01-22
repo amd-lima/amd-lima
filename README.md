@@ -49,5 +49,5 @@
    
 </div>
   
-
+![Snake animation](https://github.com/AmandaLimaLuiz/AmandaLimaLuiz/blob/output/github-contribution-grid-snake.svg)
   
