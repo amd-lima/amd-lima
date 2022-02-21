@@ -38,9 +38,26 @@
   
 
 </div>
-    <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url">
-   <img align="center" alt="AMD-Js" height="60" width="60" src="https://images.credly.com/size/220x220/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png">
+<div align="center" > <h2>  Badges!!! </h2></div>
+ <div align="center" >
+    <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url" target="_blank">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/220x220/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png">
    </a>
+    <a href="https://www.credly.com/badges/5c649f19-8e9b-4e1f-a23b-d4f4073ad5fe?source=linked_in_profile" target="_blank">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png">
+   </a>
+    <a href="https://www.credly.com/badges/4800a7b0-b901-4da9-867d-f1bc5974a7e8?source=linked_in_profile" target="_blank">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png">
+   </a>
+    <a href="https://www.credly.com/badges/410e66cd-5adb-4efe-af77-2c52aa11eaf0?source=linked_in_profile" target="_blank">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png">
+   </a>
+    <a href="https://www.credly.com/badges/d4840523-3c96-4efa-915f-45610c27bbb9" target="_blank">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/9b150a97-28c5-44b1-9f69-7f610b3e0284/IBM_Automation_Compass.png">
+   </a>
+ </div>
+ <br><br>
+    
   
  
 <div align="center" > 
