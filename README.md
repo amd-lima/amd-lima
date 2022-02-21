@@ -38,8 +38,10 @@
   
 
 </div>
+    <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url">
+   <img align="center" alt="AMD-Js" height="60" width="60" src="https://images.credly.com/size/220x220/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png">
+   </a>
   
-  ##
  
 <div align="center" > 
  
@@ -50,6 +52,7 @@
  
    
 </div>
+    
   
 ![Snake animation](https://github.com/AmandaLimaLuiz/AmandaLimaLuiz/blob/output/github-contribution-grid-snake.svg)
   
