@@ -73,3 +73,56 @@
   
 ![Snake animation](https://github.com/AmandaLimaLuiz/AmandaLimaLuiz/blob/output/github-contribution-grid-snake.svg)
   
+## Projects JS
+<div>
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/POO/FormularioDeCadastro" target="_blank"> Form validation </a> </br>
+
+<img alt="img-form" height="200" width="100" src="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/POO/FormularioDeCadastro/img/tela1.png">
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/fun%C3%A7oesAvan%C3%A7ado/Calculator" target="_blank"> Calculator </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166808154-d6f40086-8db0-448a-ab3c-54546e3719a9.png)
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs/ImcTableMadeByMe" target="_blank"> Calculator IMC </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166808487-fcddcf79-1cc0-4a70-bb34-69f787a85902.png)
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceTimer" target="_blank"> Timer </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166808398-47038c66-2e65-4184-b309-f80a5550a74f.png)
+
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ToDoList" target="_blank"> To Do List </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166808586-64126a92-d9f4-45f7-b661-681ddcf3d822.png)
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs/projeto%20dark-mode%20DIO" target="_blank"> Dark Mode </a> </br>
+<div>
+    <img alt="img-form" height="100" width="150" src="https://user-images.githubusercontent.com/77978576/166808953-0c04ff55-3a3a-4e78-87f7-27c693728518.png">
+    <img alt="img-form" height="100" width="150" src="https://user-images.githubusercontent.com/77978576/166808992-d93d2d94-8fcf-4872-9e07-ba33c8c4133c.png">
+</div>
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/projetos%20DIO/jogo%20da%20velha" target="_blank"> Jogo da Velha </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166809541-5ca3dbe3-9103-4399-9b9d-957c2b23069c.png)
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/projetos%20DIO/space%20shooter" target="_blank"> Game Space Shooter </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166809600-b3ea92c1-6844-44bc-96c7-5667fd317f25.png)
+
+### <a href="https://github.com/AmandaLimaLuiz/TipCalculator" target="_blank"> Tip Calculator challenge </a> </br>
+<img align="center" alt="img-calculator" height="200" width="400" src="https://github.com/AmandaLimaLuiz/TipCalculator/blob/main/img/tela2.png">
+</div>
+
+## React JS
+### <a href="https://github.com/AmandaLimaLuiz/Simple-form-react" target="_blank"> Simple form react </a> </br>
+<img align="center" alt="screen1" height="200" width="500" src="https://github.com/AmandaLimaLuiz/Simple-form-react/blob/main/img/S_1.png">
+
+### <a href="https://github.com/AmandaLimaLuiz/Web-App-Expenses" target="_blank"> Web Expenses </a> </br>
+<img align="center" alt="tela" height="250" width="300" src="https://github.com/AmandaLimaLuiz/Web-App-Expenses/blob/main/img/tela1.png">
+
+## Java
+### <a href="https://github.com/AmandaLimaLuiz/loginEmJava" target="_blank"> User Login </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166811521-3531409a-dd46-4387-8956-541ecf1437c1.png)
+
+## C
+### <a href="https://github.com/AmandaLimaLuiz/loginEmJava" target="_blank"> Form </a> </br>
+![image](https://user-images.githubusercontent.com/77978576/166811857-9ad5ece2-38ff-437d-96b6-d13adc66b4cd.png)
+
+![image](https://user-images.githubusercontent.com/77978576/166811786-7a201f02-96fe-4198-974a-691f3904b5e6.png)
+
