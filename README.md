@@ -9,9 +9,9 @@
 <div align="center" > <h1> <font color="purple">  Hi there, It's Amanda here!!! </font>  </h1></div> 
 
 
-- 🔭 I’m currently working on _React project_
+- 🔭 I’m currently working and studying as a _full Stack Development_
 - 🌱 I’m currently learning _JavaScript with NodeJs and React_  
-- 👩🏻‍💻  I already worked with _mainframe with Natural Language_ for 6 months
+- 👩🏻‍💻 I already worked with _mainframe with Natural Language_
 - ⚡ Fun fact: I love Harry Potter 🧙‍♂️
 <br><br><br>
 
