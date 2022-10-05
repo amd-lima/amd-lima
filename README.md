@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working and studying as a _full Stack Development_
-- 🌱 I’m currently learning _JavaScript with NodeJs and React_  
+- 🌱 I’m learning _JavaScript with NodeJs and React_  
 - 👩🏻‍💻 I already worked with _mainframe with Natural Language_
 - ⚡ Fun fact: I love Harry Potter 🧙‍♂️
 <br><br><br>
