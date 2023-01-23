@@ -57,6 +57,9 @@
     <a href="https://www.credly.com/badges/d4840523-3c96-4efa-915f-45610c27bbb9" target="_blank">
         <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/9b150a97-28c5-44b1-9f69-7f610b3e0284/IBM_Automation_Compass.png">
    </a>
+     <a href="https://www.credly.com/badges/6956fb34-3d7f-414c-ac55-4a3bb96b1d36/public_url" target="_blank">
+        <img align="center" alt="DP900" height="90" width="90" src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
+   </a>  
  </div>
  <br><br>
     
