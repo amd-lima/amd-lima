@@ -63,6 +63,9 @@
      <a href="https://www.credly.com/badges/6956fb34-3d7f-414c-ac55-4a3bb96b1d36/public_url" target="_blank">
         <img align="center" alt="DP900" height="90" width="90" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
    </a> 
+     <a href="https://www.credly.com/badges/f6739819-5bc6-4310-931e-f8eb47de3f73/public_url" target="_blank">
+        <img align="center" alt="PL900" height="90" width="90" src="https://images.credly.com/size/220x220/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png">
+    </a>
  </div>
  <br><br>
     
