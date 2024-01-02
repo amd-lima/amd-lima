@@ -1,18 +1,24 @@
 
 <div align="center" ><img align="center" alt="AMD-Csharp" height="200" width="500" 
-    src="https://www.peta2.com/wp-content/uploads/2015/03/Dumbledore.gif"                   
- <-- src="https://i0.wp.com/static.tumblr.com/ec87913ea33f3cdce9de55e78db35a52/1qza08l/5hRohb0up/tumblr_static_filename_640_v2.gif?resize=500%2C200&ssl=1" >
-   </div>
+<--    src="https://media0.giphy.com/media/9H279yb0blggo/giphy.gif"      -->            
+</div>
+    
    <h4 align="center">"Happiness can be found even in the darkest of time when one only remembers to turn on the light."</h4>
     
 
-<div align="center" > <h1> <font color="purple">  Hi there, It's Amanda here!!! </font>  </h1></div> 
+### Hi there! 👋
 
+## I'm Amanda, a passionate Software Engineer with a focus on Front-end Development. Here's a snapshot of what I'm up to:
 
-- 🔭 I’m currently working and studying as a _full Stack Development_
-- 🌱 I’m learning _JavaScript with NodeJs and React_  
-- 👩🏻‍💻 I already worked with _mainframe with Natural Language_
-- ⚡ Fun fact: I love Harry Potter 🧙‍♂️
+- 🔭 Currently working on: _Front-end Development_
+- 🌱 Tech stack: _JavaScript and TypeScript in Angular_
+- 👩🏻‍💻 Previous experience: _Mainframe with Natural Language, Java with AWS Lambdas, and serverless, Outsystems_
+- ⚡ Academic Pursuit: Studying to be a Software Engineer
+- 🚀 Additional Focus: Actively exploring Agile methodologies and Scrum practices alongside my academic journey
+
+I believe in continuous learning and growth. Feel free to explore my repositories, and let's connect to discuss anything from code to agile methodologies!
+
+Happy coding! 🚀👩🏻‍💻
 <br><br><br>
 
 
@@ -80,9 +86,7 @@
   <a href="https://www.instagram.com/amandaliluiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:delimaluiz.amanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amandarll/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-   
+    
 </div>
     
   
