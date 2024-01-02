@@ -52,6 +52,9 @@
     <a href="https://www.credly.com/badges/4800a7b0-b901-4da9-867d-f1bc5974a7e8?source=linked_in_profile" target="_blank">
         <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png">
    </a>
+     <a href="https://www.credly.com/badges/bba9accf-1f71-4ab9-b8e0-dd97340651ad/public_url" target="_blank">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png">
+   </a>
     <a href="https://www.credly.com/badges/410e66cd-5adb-4efe-af77-2c52aa11eaf0?source=linked_in_profile" target="_blank">
         <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png">
    </a>
