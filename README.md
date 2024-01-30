@@ -8,7 +8,7 @@
 
 ### Hi there! 👋
 
-I'm Amanda, a passionate Software Engineer with a focus on Front-end Development. Here's a snapshot of what I'm up to:
+I'm Amanda, a passionate Software Engineer student with a focus on Front-end Development. Here's a snapshot of what I'm up to:
 
 - 👩🏻‍💻 Currently working on: _Front-end Development_
 - ✨ Tech stack: _JavaScript and TypeScript in Angular_
