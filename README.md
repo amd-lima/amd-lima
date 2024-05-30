@@ -49,6 +49,9 @@ Happy coding! 🚀👩🏻‍💻
 </div>
 <div align="center" > <h2>  Badges!!! </h2></div>
  <div align="center" >
+     <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url" target="_blank">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/220x220/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png">
+   </a>
     <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url" target="_blank">
         <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/220x220/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png">
    </a>
