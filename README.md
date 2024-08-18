@@ -10,18 +10,16 @@
 
 I'm Amanda, a passionate Software Engineer student with a focus on Front-end Development. Here's a snapshot of what I'm up to:
 
-- 👩🏻‍💻 Currently working on: _Front-end Development_
+- 👩🏻‍💻 Currently working on: _Front-end Development and Scrum Master._
 - ✨ Tech stack: _JavaScript and TypeScript in Angular_
-- 🎞️ Previous experience: _Mainframe with Natural Language, Java with AWS Lambdas, and serverless, Outsystems_
-- ⚡ Academic Pursuit: Studying to be a Software Engineer
-- 🚀 Additional Focus: Actively exploring Agile methodologies and Scrum practices alongside my academic journey
+- 🎞️ Previous experience: _Mainframe with Natural Language, JCL, Java with AWS Lambdas, and serverless, Outsystems, Angular, Git, Jira..._
+- ⚡ Academic Pursuit: _Studying to be a Software Engineer._
+- 🚀 Additional Focus: _Actively exploring Agile methodologies, Scrum, Kanban and management of digital products alongside my academic journey._
 
 I believe in continuous learning and growth. Feel free to explore my repositories, and let's connect to discuss anything from code to agile methodologies!
 
 Happy coding! 🚀👩🏻‍💻
 <br><br><br>
-
-
 
 
  <div align="center">
@@ -30,9 +28,7 @@ Happy coding! 🚀👩🏻‍💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amd-lima&layout=compact&langs_count=7&theme=jolly"/>
 </div> 
 
-<div style="display: inline_block" align="center"><br>
-
- 
+<div style="display: inline_block" align="center"><br> 
  <img align="center" alt="AMD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="AMD-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="node-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -49,14 +45,14 @@ Happy coding! 🚀👩🏻‍💻
 </div>
 <div align="center" > <h2>  Badges!!! </h2></div>
  <div align="center" >
-     <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url" target="_blank">
         <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/220x220/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png">
    </a>
     <a href="https://www.credly.com/badges/08aeeca0-d31c-4255-86df-43e1e1e3416f/public_url" target="_blank">
         <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/220x220/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png">
    </a>
     <a href="https://www.credly.com/badges/5c649f19-8e9b-4e1f-a23b-d4f4073ad5fe?source=linked_in_profile" target="_blank">
-        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png">
+        <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png">
    </a>
     <a href="https://www.credly.com/badges/4800a7b0-b901-4da9-867d-f1bc5974a7e8?source=linked_in_profile" target="_blank">
         <img align="center" alt="AMD-Js" height="90" width="90" src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png">
@@ -82,11 +78,9 @@ Happy coding! 🚀👩🏻‍💻
   
  
 <div align="center" > 
- 
   <a href="https://www.instagram.com/amandaliluiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:delimaluiz.amanda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amandarll/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
 </div>
     
   
