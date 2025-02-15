@@ -8,15 +8,12 @@
 
 ### Hi there! 👋
 
-I'm Amanda, a passionate Software Engineer student with a focus on Front-end Development. Here's a snapshot of what I'm up to:
+I'm Amanda, Software Engineer with solid experience as a Scrum Master and Front-End Developer, 
+specializing in Angular and agile team management. Currently pursuing an MBA in Project Management to further enhance my leadership, 
+strategic planning, and execution skills.
 
-- 👩🏻‍💻 Currently working on: _Front-end Development and Scrum Master._
-- ✨ Tech stack: _JavaScript and TypeScript in Angular_
-- 🎞️ Previous experience: _Mainframe with Natural Language, JCL, Java with AWS Lambdas, and serverless, Outsystems, Angular, Git, Jira..._
-- ⚡ Academic Pursuit: _Studying to be a Software Engineer._
-- 🚀 Additional Focus: _Actively exploring Agile methodologies, Scrum, Kanban and management of digital products alongside my academic journey._
-
-I believe in continuous learning and growth. Feel free to explore my repositories, and let's connect to discuss anything from code to agile methodologies!
+Skilled in product backlog management, prioritizing demands, and ensuring strategic alignment between business and technology. 
+Adept at translating business requirements into efficient technical solutions, delivering high value to stakeholders and digital products.
 
 Happy coding! 🚀👩🏻‍💻
 <br><br><br>
