@@ -16,6 +16,8 @@ Skilled in product backlog management, prioritizing demands, and ensuring strate
 Adept at translating business requirements into efficient technical solutions, delivering high value to stakeholders and digital products.
 
 Happy coding! 🚀👩🏻‍💻
+
+🔗 **[Acesse o portfólio online](https://amd-lima.github.io/Portfolio-Angular17/)**
 <br><br><br>
 
 
