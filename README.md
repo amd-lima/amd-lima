@@ -17,11 +17,8 @@ Adept at translating business requirements into efficient technical solutions, d
 
 Happy coding! 🚀👩🏻‍💻
 
-🔗 **[Acesse o portfólio online](https://amd-lima.github.io/Portfolio-Angular17/)**
-<br><br><br>
 
-
- <div align="center">
+<div align="center">
   <a href="https://github.com/amd-lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amd-lima&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amd-lima&layout=compact&langs_count=7&theme=jolly"/>
