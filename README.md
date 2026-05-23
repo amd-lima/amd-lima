@@ -23,7 +23,9 @@ Happy coding! 🚀👩🏻‍💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amd-lima&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amd-lima&layout=compact&langs_count=7&theme=jolly"/>
 </div> 
--->>
+-->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=amd-lima&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=amd-lima&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient) - - - 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=amd-lima&layout=compact&langs_count=7&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=amd-lima&layout=compact&langs_count=7&theme=ambient_gradient)
 
 <div style="display: inline_block" align="center"><br> 
  <img align="center" alt="AMD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -83,4 +85,5 @@ Happy coding! 🚀👩🏻‍💻
     
   
 ![Snake animation](https://github.com/amd-lima/amd-lima/blob/output/github-contribution-grid-snake-dark.svg)
+
 
